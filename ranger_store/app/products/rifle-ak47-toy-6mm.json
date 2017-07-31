@@ -1,0 +1,15 @@
+{
+    "id" : "rifle-ak47-toy-6mm",
+    "produtoTitulo": "Rifle de Airsoft AK47 Toy Cal 6,0mm - Eletrico 220v Cyber Gun + Esferas 0,12g BBs com 5000 Eagle Speed",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Rifles Airsoft"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Equipamento que tem funcionamento por bateria elétrica (bateria e carregador inclusos no produto).", "Confeccionado em polímero de alta resistência.", "Sistema Hop Up: sistema de ajuste da direção do tiro.", "Bandoleira inclusa.", "Peso (aprox.): 900 g"],
+    "valorVista" : "<b>R$ 538,53 à vista*</b>",
+    "valorTotal" : ["De R$ 668,90", "<br>por: R$ 598,37", "<br> <b>R$ 538,53 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "CARABINAS E PISTOLAS DE PRESSÃO NÃO SÃO ARMAS DE FOGO E NÃO NECESSITAM DE REGISTRO."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_680/rifle-de-airsoft-ak47-toy-cal-6-0mm-eletrico-220v-cyber-gun-esferas-0-12g-bbs-5000-bb-king-936x770-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_680/rifle-de-airsoft-ak47-toy-calibre-6-0-mm-kalashnikov-936x770-936x770.jpg"
+                ]
+  }

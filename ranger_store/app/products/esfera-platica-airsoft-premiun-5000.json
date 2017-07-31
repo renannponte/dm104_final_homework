@@ -1,0 +1,14 @@
+{
+    "id" : "esfera-platica-airsoft-premiun-5000",
+    "produtoTitulo": "Esfera Plastica Airsoft Premiun 0,12g com 5000un Branca - Mundo da Carabina",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Muniçã para airsoft"],
+    "nivelDestaque" : 1,
+    "produtoDescricao" : ["Peso: 0.12 g.", "Quantidade: 5.000 rounds", "Produzidas em plástico ABS.", "Cor: Branca"],
+    "valorVista" : "<b>R$ 44,96 à vista*</b>",
+    "valorTotal" : ["De R$ 59,90", "<br>por: R$ 49,96", "<br> <b>R$ 44,96 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7606/IMG_1704-936x770.JPG"
+                ]
+  }

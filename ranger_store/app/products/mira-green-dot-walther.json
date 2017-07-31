@@ -1,0 +1,15 @@
+{
+    "id" : "mira-green-dot-walther",
+    "produtoTitulo": "Mira Green Dot Walther Shotdot Pro",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pistola de Pressão",
+    "caracteristica" : ["Mira"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Intensidade: 02 pontos, se adapta automaticamente ao nível de luz do ambiente.","Peso: 39g", "Magnitune: 1x"],
+    "valorVista" : "<b>R$ 282,69 à vista*</b>",
+    "valorTotal" : ["De R$ 369,00", "<br>por: R$ 314,10", "<br> <b>R$ 282,69 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1904/03-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1904/04-936x770.jpg"
+                ]
+  }

@@ -1,0 +1,17 @@
+{
+    "id" : "besta-nautica",
+    "produtoTitulo": "Besta Terena - Nautika",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["balestra", "composto"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Material: Corda multifilamento de poliamida, aço esmaltado, aluminio, fibra de vidro e detalhes em bronze.", "Medidas (cm): 64","Peso (g): 165", "Tipo: besta", "A Besta Terena, da NTK, tem potencia de 80 libras, velocidade de 200fps, alcance de precisão: 20 M, inclui 6 flechas, mira optica e alvo."],
+    "valorVista" : "<b>R$ 339,92 à vista*</b>",
+    "valorTotal" : ["De R$ 469,90", "<br>por: R$ 399,90", "<br> <b>R$ 339,92 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "Referência: AR-9000-0005 Garantia:  6 meses      Disponibilidade: Pronta-entrega."],
+    "imagens" :  [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2388/61a26861796e96e425bc1a17956ace5a-936x770.jpg",
+                   "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2388/05ab361f11d129c9a7d441e4d05de60a-936x770.jpg", 
+                   "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2388/96851f593407ea9cc5c2fd8372ca7442-936x770.jpg"
+                 ]
+    
+  }

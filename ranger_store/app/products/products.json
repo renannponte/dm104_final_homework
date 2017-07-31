@@ -1,0 +1,383 @@
+[
+  {
+    "id" : "arco-mk-cb55gc",  
+    "produtoTitulo": "Arco Composto 55 Lbs MK-CB55GC - Camuflado - Man kung",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["arco", "composto"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["- Peso da puxada regulável de 40-55 libras", "- Empunhadura de alumínio", "- Lâminas de fibra de vidro", "- Possui mira, estabilizador ecalibrador de libragem", "- Uso recomendado com flechas de alumínio ou carbono de 30’"],
+    "valorVista" : "<b>R$ 806,69 à vista*</b>",
+    "valorTotal" : ["De R$ 1.289,00", "por: R$ 949,05", "<b>R$ 806,69 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "Referência: AR-2050-0005", "Garantia: 3 meses Disponibilidade: Pronta-entrega."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_3414/Cod_1017-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_3414/CATALOGO_COMBAT_man-kung_web-6-16-936x770.jpg"
+                ]    
+  },
+            {
+    "id" : "arco-nkt",
+    "produtoTitulo": "Arco Recurvo Xavante - NKT",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["arco", "curvo"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Material: Corda multifilamento de poliamida, empunhadura de aluminio, arco de fibra de vidro", "Medidas (cm): 144", "Peso (g): 17", "Tipo: Arco Balanceado 48 libras", "O Arco Xavante, da NTK, é um conjunto de arco e flecha, arco balanceado de 48 libras, acompanha 3 flechas, mira e alvo. Para preservar e prolongar a utilização das flechas deste material é recomendado utilizar como Alvo materiais com baixo grau de dureza, como madeiras sem fórmicas, madeiras revestidas com camurça, Sisal ou outras fibras de plantas utilizadas em confecções de alvos de uso amador e profissional que são os materiais recomendados para utilização desta pratica esportiva."],
+    "valorVista" : "<b>R$ 555,66 à vista*</b>",
+    "valorTotal" : ["De R$ 699,90", "<br>por: R$ 617,40", "<br> <b>R$ 555,66 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1881/arco-recurvo-ntk-mod-xavante-48lbs-flecha-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1881/arco-xavante2-936x770.jpg", "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1881/arco-xavante4-936x770.jpg"
+                ]
+    
+  },
+            {
+    "id" : "barraca-nautika-indy",
+    "produtoTitulo": "Barraca Nautika Indy 4/5 Pessoas",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Barraca"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Capacidade: 4 a 5 Pessoas", "Material Interior: Poliéster 1 90T respirável e tela mosquiteiro.", "Material Piso: Polietileno de alta densidade e anti-fungo", "Material Sobreteto: Poliéster 1 90T laminado com poliuretano e 2500mm de coluna d'água, parcialmente aluminizado, costura selada termo-soldada e proteção UV", "Peso: 5,6 Kg"],
+    "valorVista" : "<b>R$ 516,72 à vista*</b>",
+    "valorTotal" : ["De R$ 739,90", "<br>por: R$ 607,90", "<br> <b>R$ 516,72 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4516/2-(2)-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4516/2-(3)-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4516/2-(7)-936x770.jpg"
+                ]
+    
+  },{
+    "id" : "besta-md-jaguar",
+    "produtoTitulo": "Besta/Balestra MD Jaguar Camuflada 150/175 Lbs + Red Dot + Acessoreios",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Principais Características"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["balestra", "recurvo"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Mira ajustável", "Mecanismo de auto segurança.", "Footclaw para os pés, facilitando sua armação.", "Arco todo feito em metal.", "Coronha Personalizada, camuflada"],
+    "valorVista" : "<b>*Produto fora de estoque</b>",
+    "valorTotal" : ["<b>*Produto fora de estoque</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1037/0-936x770.jpg"
+                ]
+  },{
+    "id" : "besta-nautica",
+    "produtoTitulo": "Besta Terena - Nautika",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["balestra", "composto"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Material: Corda multifilamento de poliamida, aço esmaltado, aluminio, fibra de vidro e detalhes em bronze.", "Medidas (cm): 64","Peso (g): 165", "Tipo: besta", "A Besta Terena, da NTK, tem potencia de 80 libras, velocidade de 200fps, alcance de precisão: 20 M, inclui 6 flechas, mira optica e alvo."],
+    "valorVista" : "<b>R$ 339,92 à vista*</b>",
+    "valorTotal" : ["De R$ 469,90", "<br>por: R$ 399,90", "<br> <b>R$ 339,92 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "Referência: AR-9000-0005 Garantia:  6 meses      Disponibilidade: Pronta-entrega."],
+    "imagens" :  [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2388/61a26861796e96e425bc1a17956ace5a-936x770.jpg",
+                   "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2388/05ab361f11d129c9a7d441e4d05de60a-936x770.jpg", 
+                   "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2388/96851f593407ea9cc5c2fd8372ca7442-936x770.jpg"
+                 ]
+    
+  },{
+    "id" : "canivete-selva-nautika",
+    "produtoTitulo": "Canivete Selva - Nautika",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["Canivete"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Possui 3 lâminas sendo 2 lâminas tipo turca ( uma com dobrador de arame e outra com cortador invertido) e 1 lâmina com serra tipo dente de tubarão", "Possui trava de segurança individual para cada lâmina.", "Inclui estojo de transporte com passador de cinto.", "Material: Lâmina de aço inox e cabo de plástico ABS texturizado e anti-deslizante com padrão camuflado floresta.", "Medidas (aprox.): Fechado 11 cm, Lâmina 7 cm."],
+    "valorVista" : "<b>R$ 63,16 à vista*</b>",
+    "valorTotal" : ["De R$ 79,90", "<br>por: R$ 74,31", "<br> <b>R$ 63,16 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_251/canivete-selva-nautika--936x770.jpg",
+                 "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_251/foto-01-936x770.jpg", 
+                 "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_251/foto-02-936x770.jpg"
+                ]
+  },{
+    "id" : "carabina-cbc-nitro-6mm",
+    "produtoTitulo": "Carabina de Pressão CBC Nitro Six 6.0mm Oxidada + Kit Limpeza + Chumbinho",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina cal 6.0"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Há mais de oito décadas desenvolvendo produtos destinados à segurança, ao esporte e ao lazer, a marca CBC oferece uma ampla e variada série de carabinas de pressão de alta tecnologia, performance e confiabilidade. São diversas opções que revelam robustez, tradição, modernidade e muita segurança, já que todas as carabinas da CBC possuem sistema de segurança.", "Mola 'Gás Ram' - pistão nitrogênio (Nitro)", "Velocidade: 260 m/s", "Força para engatilhar: 27 Kg", "Distância máxima do tiro: 440 metros (valor teórico considerando o cano inclinado em 30°)", "Comprimento total: 47 polegadas (120 cm)", "Peso: 3,8 Kg"],
+    "valorVista" : "<b>R$ 2.077,56 à vista*</b>",
+    "valorTotal" : ["De R$ 2.482,50", "<br>por: R$ 2.308,40", "<br> <b>R$ 2.077,56 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_352/carabina-de-pressao-cbc-nitro-six-6-0mm-oxidada-kit-limpeza-chumbinho-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_352/combo-carabina-de-pressao-cbc-nitro-six-936x770.jpg"
+                ]
+  },{
+    "id" : "carabina-dione-45mm",
+    "produtoTitulo": "Carabina de Pressão Dione Tradicional - Calibre 4,5 mm + Capa 45''",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina cal 4.5"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Arma de ação por mola.", "Sistema antidisparo com cano aberto.", "Coronha de madeira de lei com acabamento natural.", "Calibre: 4,5 mm", "Comprimento: 1135 mm", "Peso: 2,7 Kg", "Velocidade: 186 m/s (a velocidade máxima pode variar conforme o chumbinho utilizado)." ],
+    "valorVista" : "<b>R$ 512,91 à vista*</b>",
+    "valorTotal" : ["De R$ 669,90", "<br>por: R$ 569,90", "<br> <b>R$ 512,91 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_270/1-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_8035/01-936x770.jpg"
+                ]
+  },{
+    "id" : "carabina-hatsan-striker-edge",
+    "produtoTitulo": "Carabina de Pressão Hatsan Striker Edge Cal 5.5 + Luneta 4x32 + Chumbinhos + Capa",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina cal 5.5"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Arma de ação por mola", "Gatilho metálico ajustável", "Coronha ambidestra estilo tática (design tático) com abertura para encaixe do polegar", "Soleira de borracha", "Trilho (11mm) e trava para luneta", "Comprimento: 1100 mm", "Peso: 3 kg", "Velocidade: 245 m/s - a velocidade máxima pode variar de acordo com o chumbinho.", "A Carabina de Pressão Striker Edge da Hatsan é uma excelente carabina para atividades de impacto, tiro ao alvo ou lazer, por possuir ótima potência e precisão. Neste kit acompanha Luneta 4x32, Chumbinhos e Capa."],
+    "valorVista" : "<b>R$ 1.213,57 à vista*</b>",
+    "valorTotal" : ["De R$ 1.467,60", "<br>por: R$ 1.348,41", "<br> <b>R$ 1.213,57 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1078/0173-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1078/striker-936x770-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1078/luneta-4x32-rifle-scope-2-936x770.jpg"
+                ]
+  },{
+    "id" : "carabina-pcp-sumatra-500",
+    "produtoTitulo": "Carabina PCP Sumatra 500 + Case + Bomba pneumática",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina PCP cal 5.5"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Este rifle pneumático pré-carregado (PCP) possui 2 câmaras embutidas (500 cc total) que suportam uma pressão de 200 BAR. Pode ser carregado a partir de um tanque de mergulho tipo Scuba, compressor de ar ou bomba manual. Este rifle é alimentado através de um clipe rotatório de 6 tiros. O rifle já vem com 2 clipes que são facilmente cambiáveis. O ajuste de potência possui vários estágios o que faz da Sumatra 500 um dos rifles mais versáteis do mercado. O cilindro de ar de 500 cc proporciona tiros poderosos com a vantagem de não ter que recarregar com muita frequência.", "Velocidade: 335 MPS / 1100 FPS", "Magazine: 2 clipes plásticos rotatórios de 6 tiros cada", "Comprimento total: 109 cm / 43''", "Capacidade: 6 tiros", "Peso: 3,6 Kg", "Rifle pneumático pré-carregado (pcp), volume de ar do cilindro: 500 CC, pressão máxima: 200 BAR / 3000 PSI, manômetro integrado."],
+    "valorVista" : "<b>R$ 8.318,32 à vista*</b>",
+    "valorTotal" : ["De R$ 9.859,70", "<br>por: R$ 9.311,90", "<br> <b>R$ 8.318,32 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_342/BASE--936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_342/IMG_6037-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_342/caixa-case-para-armas-longas-gun-guard-10-10489-plano-936x770-936x770.jpg"
+                ]
+  },{
+    "id" : "case-arma-gunguard-1423",
+    "produtoTitulo": "Caixa (case) para arma curta - Gun Guard 1423-00 - Plano",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Acessórios para Airsoft"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Marca: Plano", "Capacidade: uma arma curta", "Revestimento de espuma de alta densidade em formato 'caixa de ovo'", "Possui fechaduras seguras e orifício para cadeado"],
+    "valorVista" : "<b>R$ 44,96 à vista*</b>",
+    "valorTotal" : ["De R$ 89,00", "<br>por: R$ 64,31", "<br> <b>R$ 57,88 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_218/caixa-case-para-arma-curta-gun-guard-1423-00-plano-936x770.jpg"]
+  },{
+    "id" : "chumbinho-pro-magnum-5mm",
+    "produtoTitulo": "Chumbinho Pro-Magnum - Calibre 5,5 mm - 250 unidades - Gamo",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Chumbinho 5.5"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Peso: 1 g", "Calibre: 5,5 mm", "Conteúdo: Embalagem com 250 unidades."],
+    "valorVista" : "<b>R$ 35,52 à vista*</b>",
+    "valorTotal" : ["De R$ 47,90", "<br>por: R$ 39,47", "<br> <b>R$ 35,52 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_418/chumbinho-pro-magnum-calibre-5-5-mm-250-unidades-01-936x770.jpg"]
+  },{
+    "id" : "colete-salva-vidas-neoprene",
+    "produtoTitulo": "Colete Salva Vidas Neoprene New Protech Homologado M Vermelho - Prolife",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["Colete Salva Vida"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Visando garantir a segurança, tranquilidade e qualidade informamos que nosso colete é homologado pela Marinha do Brasil, podendo ser utilizado por nossos consumidores sem a preocupação de autuação em caso de alguma fiscalização.", "M (De 35kg a 55kg)"],
+    "valorVista" : "<b>R$ 284,50 à vista*</b>",
+    "valorTotal" : ["De R$ 379,90", "<br>por: R$ 334,71", "<br> <b>R$ 284,50 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_3948/V2frenteVermelho_large-936x770.png",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_3948/V2CostasVermelho_large-936x770.png"
+                ]
+  },{
+    "id" : "esfera-platica-airsoft-premiun-5000",
+    "produtoTitulo": "Esfera Plastica Airsoft Premiun 0,12g com 5000un Branca - Mundo da Carabina",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Muniçã para airsoft"],
+    "nivelDestaque" : 1,
+    "produtoDescricao" : ["Peso: 0.12 g.", "Quantidade: 5.000 rounds", "Produzidas em plástico ABS.", "Cor: Branca"],
+    "valorVista" : "<b>R$ 44,96 à vista*</b>",
+    "valorTotal" : ["De R$ 59,90", "<br>por: R$ 49,96", "<br> <b>R$ 44,96 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7606/IMG_1704-936x770.JPG"
+                ]
+  },{
+    "id" : "kit-economico-flecha-buffalo",
+    "produtoTitulo": "kit economico c/ 3und Flechas de Alumínio 30'' Buffalo River",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["acessórios"],
+    "nivelDestaque" : 1,
+    "produtoDescricao" : ["Material: Alumínio", "Tamanho: 30'' - 76,2 cm", "Conteúdo: Embalagem com 3 unidades", "Possui ponta rosqueável"],
+    "valorVista" : "<b>R$ 46,84 à vista*</b>",
+    "valorTotal" : ["De R$ 74,90", "<br>por: R$ 55,11", "<br> <b>R$ 46,84 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_629/flecha-de-aluminio-3-unidades-buffalo-river-01-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_629/flecha-de-aluminio-3-unidades-buffalo-river-02-936x770.jpg"
+                ]
+  },{
+    "id" : "lanterna-tocha-light",
+    "produtoTitulo": "Lanterna Tocha Ultra Light - Guepardo",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Lanterna"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Tempo de recarga completa: 10 horas", "1.500 velas", "Tempo de iluminação interrupta: 20 horas", "Resistente à chuva", "Alcance de iluminação: 300 metros"],
+    "valorVista" : "<b>R$ 109,40 à vista*</b>",
+    "valorTotal" : ["De R$ 149,90", "<br>por: R$ 128,71", "<br> <b>R$ 109,40 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1399/4-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1399/segund-936x770.jpg"
+                ]
+  },{
+    "id" : "maleta-pesca-dupla",
+    "produtoTitulo": "Maleta / Caixa para Pesca Dupla Face 7320 - Flambeau",
+    "produtoTituloSecundario" : ["* Imagens meramente ilustrativas. Confirme as especificações técnicas abaixo.", "<br>Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["caixa"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Altura: 24 cm", "Comprimento: 34 cm", "Largura: 12 cm", "Material: Termoplastico injetado e tampas de acrílico"],
+    "valorVista" : "<b>R$ 145,26 à vista*</b>",
+    "valorTotal" : ["De R$ 189,90", "<br>por: R$ 161,40", "<br> <b>R$ 145,26 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4542/Maleta-para-Pesca-Dupla-Face-Flambeau-7320-2-936x770.jpg" ]
+  },{
+    "id" : "mira-green-dot-walther",
+    "produtoTitulo": "Mira Green Dot Walther Shotdot Pro",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pistola de Pressão",
+    "caracteristica" : ["Mira"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Intensidade: 02 pontos, se adapta automaticamente ao nível de luz do ambiente.","Peso: 39g", "Magnitune: 1x"],
+    "valorVista" : "<b>R$ 282,69 à vista*</b>",
+    "valorTotal" : ["De R$ 369,00", "<br>por: R$ 314,10", "<br> <b>R$ 282,69 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1904/03-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1904/04-936x770.jpg"
+                ]
+  },{
+    "id" : "mochila-aircontact-pro",
+    "produtoTitulo": "Mochila Aircontact PRO 70+15 Preta/Cinza - Deuter",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Mochila"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Adicionais: Sistema de ventilação Aircontact, sistema Vari-Flex de ajuste da altura das alças, armação de alumínio interna paralela, barrigueira estruturada e compacta com sistema de fivelas com ajuste puxando para frente, tiras de compressão laterais, alças anatômicas revestidas de 3D AirMesh com sistema de ajuste de carga, etiqueta de SOS, capa de chuva feita em Nylon-Taffeta, compartimento interno para fixação de sistema de hidratação, bolsos laterais compatíveis com sistema de hidratação, bolsos na tampa, compartimento inferior separável com abertura por zíper, tiras de compressão lateral, bolsos laterais em tela para pequenos objetos tira peitoral, alças para fixação de bastão de caminhada e piqueta e zíper de acesso frontal. Fivelas feitas em Poliamida 6.6. Revestida internamente com Poliuretano (PU) para conferir resistência a água.", "Dimensões (cm): 88 x 40 x 30", "Material: Deuter-Ballistic / Deuter-HexLite-210 / Deuter Duratex", "Bolsos: 2 laterais 1 frontal 1 na tampa"],
+    "valorVista" : "<b>R$ 1.682,91 à vista*</b>",
+    "valorTotal" : ["De R$ 1.969,90", "<br>por: R$ 1.869,90", "<br> <b>R$ 1.682,91 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2594/2-936x770.jpg"]
+  },{
+    "id" : "piscina-inflavel-splash",
+    "produtoTitulo": "Piscina Inflável redonda Splash Fun 2400 Litros - Mor",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Piscina"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Modo de Usar: Estender a lona da piscina em um local nivelado Inflar a borda superior Encher a piscina com água até atingir a altura indicada no manual Para conservar a água de sua piscina, adicione uma colher (15 ml) de cloro líquido (hipoclorito de sódio) para cada 1000 litros de água por dia. Se for utilizada água sanitária, a dosagem deve ser de 60 ml/ 1000 l/ dia. Este procedimento deve ser feito após o último banho do dia. Aguardar pelo menos 10 horas até utilizá-la novamente. Não utilizar cloro em pastilha para conservar a água de sua piscina. Não utilizar cloro sólido porque danifica a lona descolorindo-a e reduzindo a sua resistência. É preferível cloro líquido. Não movimente a piscina com água dentro."],
+    "valorVista" : "<b>R$ 162,36 à vista*</b>",
+    "valorTotal" : ["De R$ 209,90", "<br>por: R$ 180,40", "<br> <b>R$ 162,36 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4695/2-(1)-936x770.jpeg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4695/2-(1)-936x770.jpg" ]
+  },{
+    "id" : "pistola-beeman-2006-45mm",
+    "produtoTitulo": "Pistola de Pressão Beeman 2006 P-17 Cal 4,5mm + Red Dot Rossi - Beeman",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pistola de Pressão",
+    "caracteristica" : ["Pistola de Pressão cal 4.5"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["A pistola de pressão 2006 calibre 4,5 P-17 da Beeman impressiona desde o primeiro momento pela semelhança com uma pistola de fogo. Além disso, possui excelente custo-benefício, empunhadura muito confortável, peso balanceado, é silenciosa e precisa.", "Comprimento: 230 mm", "Peso: 780 g", "Velocidade: 125 m/s (velocidade maxima pode variar de acordo com a munição utilizada)"],
+    "valorVista" : "<b>R$ 547,11 à vista*</b>",
+    "valorTotal" : ["De R$ 859,90", "<br>por: R$ 607,90", "<br> <b>R$ 547,11 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2514/02-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2514/IMG_6704-936x770.JPG"
+                ]
+  },{
+    "id" : "pistola-hk-usp-tatical",
+    "produtoTitulo": "Pistola de Airsoft Eletrica HK USP TACTICAL - Calibre 6,0 mm - Semi Metal - Umarex",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Pistolas airsoft"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Calibre: 6,0 mm", "Velocidade: 210 fps (a velocidade máxima pode variar de acordo com a munição utilizada", "Funcionamento: Elétrico", "Mira: Fixa", "Material: Caixa e engrenagens de metal e acabamento em plástico muito resistente.", "Peso: 700 g", "Acompanha bateria, carregador e magazine metálico (capac. 30 tiros)."],
+    "valorVista" : "<b>R$ 661,57 à vista*</b>",
+    "valorTotal" : ["De R$ 899,00", "<br>por: R$ 735,08", "<br> <b>R$ 661,57 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_599/1-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_914/pistola-de-airsoft-beretta-px4-storm-calibre-6-0-mm-abs-936x770.jpg"
+                ]
+  },{
+    "id" : "rifle-ak47-toy-6mm",
+    "produtoTitulo": "Rifle de Airsoft AK47 Toy Cal 6,0mm - Eletrico 220v Cyber Gun + Esferas 0,12g BBs com 5000 Eagle Speed",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Rifles Airsoft"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Equipamento que tem funcionamento por bateria elétrica (bateria e carregador inclusos no produto).", "Confeccionado em polímero de alta resistência.", "Sistema Hop Up: sistema de ajuste da direção do tiro.", "Bandoleira inclusa.", "Peso (aprox.): 900 g"],
+    "valorVista" : "<b>R$ 538,53 à vista*</b>",
+    "valorTotal" : ["De R$ 668,90", "<br>por: R$ 598,37", "<br> <b>R$ 538,53 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "CARABINAS E PISTOLAS DE PRESSÃO NÃO SÃO ARMAS DE FOGO E NÃO NECESSITAM DE REGISTRO."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_680/rifle-de-airsoft-ak47-toy-cal-6-0mm-eletrico-220v-cyber-gun-esferas-0-12g-bbs-5000-bb-king-936x770-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_680/rifle-de-airsoft-ak47-toy-calibre-6-0-mm-kalashnikov-936x770-936x770.jpg"
+                ]
+  },{
+    "id" : "rifle-m4a1-navy",
+    "produtoTitulo": "Rifle M4A1 Camuflada Navy MiniaturaI Metática - Arsenal Guns",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Colecionaveis e Decoração"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Comprimento Aproximado: 30cm", "Peso Aproximando: 350g"],
+    "valorVista" : "<b>R$ 145,26 à vista*</b>",
+    "valorTotal" : ["De R$ 209,90", "<br>por: R$ 161,40", "<br> <b>R$ 145,26 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "Miniaturas exclusivas, jamais vistas, com todos os detalhes das armas de fogo reais."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7465/02-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7465/01-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7465/IMG_1592-936x770.JPG"
+                ]
+  },{
+    "id" : "stick-rack-sup-parede",
+    "produtoTitulo": "Stick-Rack - Sup.Parede p/6 varas - Cardume",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["Vara"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Sua fixação é simples, feita através de parafusos. Não ocupa espaço, podendo, assim, ser instalado em pequenas áreas na parede ou mesmo atrás de portas. É o suporte inteligente para manter organizada e segura sua tralha de pesca. O Stick Rack é útil também para quem deseja expor estes materiais, no caso de lojistas e colecionadores."],
+    "valorVista" : "Produto fora de estoque",
+    "valorTotal" : ["<b>Produto fora de estoque</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7024/suportes-936x770.jpg"]
+  },{
+    "id" : "tenis-acqua-vermelho",
+    "produtoTitulo": "Tenis Acqua Vermelho - Snake",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : [" Calçados especiais - aquáticos"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Solado Aldeia Cabedal em Neoprene Cadarços com sistema de travamento e ajuste Proteção de borracha na biqueira para melhor proteção."],
+    "valorVista" : "<b>R$ 150,58 à vista*</b>",
+    "valorTotal" : ["De R$ 209,90", "<br>por: R$ 167,31", "<br> <b>R$ 150,58 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5433-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5428-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5427-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5429-936x770.JPG"
+                ]
+  },{
+    "id" : "bota-finisterre-nanox-dry-desert",
+    "produtoTitulo": "Bota Finisterre Nanox Dry Desert - Vento",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Vestuário"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Leve e resistente, sua tecnologia permite que caminhadas de longa duração não machuquem os pés com o tempo, pois tem como seu principal atributo o conforto. O design também faz dela uma bota extremamente versátil, que permite ser utilizada no dia-a-dia, unindo casualidade, conforto e resistência."],
+    "valorVista" : "<b>R$ 404,92 à vista*</b>",
+    "valorTotal" : ["De R$ 549,90", "<br>por: R$ 449,91", "<br> <b>R$ 404,92 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1199-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1201-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1202-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1203-936x770.JPG"
+                ]
+  }
+]

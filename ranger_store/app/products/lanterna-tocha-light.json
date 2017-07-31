@@ -1,0 +1,15 @@
+{
+    "id" : "lanterna-tocha-light",
+    "produtoTitulo": "Lanterna Tocha Ultra Light - Guepardo",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Lanterna"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Tempo de recarga completa: 10 horas", "1.500 velas", "Tempo de iluminação interrupta: 20 horas", "Resistente à chuva", "Alcance de iluminação: 300 metros"],
+    "valorVista" : "<b>R$ 109,40 à vista*</b>",
+    "valorTotal" : ["De R$ 149,90", "<br>por: R$ 128,71", "<br> <b>R$ 109,40 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1399/4-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1399/segund-936x770.jpg"
+                ]
+  }

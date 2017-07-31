@@ -1,0 +1,16 @@
+{
+    "id" : "rifle-m4a1-navy",
+    "produtoTitulo": "Rifle M4A1 Camuflada Navy MiniaturaI Metática - Arsenal Guns",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Colecionaveis e Decoração"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Comprimento Aproximado: 30cm", "Peso Aproximando: 350g"],
+    "valorVista" : "<b>R$ 145,26 à vista*</b>",
+    "valorTotal" : ["De R$ 209,90", "<br>por: R$ 161,40", "<br> <b>R$ 145,26 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária..", "Miniaturas exclusivas, jamais vistas, com todos os detalhes das armas de fogo reais."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7465/02-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7465/01-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_7465/IMG_1592-936x770.JPG"
+                ]
+  }

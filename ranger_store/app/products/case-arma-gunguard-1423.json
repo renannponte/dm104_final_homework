@@ -1,0 +1,13 @@
+{
+    "id" : "case-arma-gunguard-1423",
+    "produtoTitulo": "Caixa (case) para arma curta - Gun Guard 1423-00 - Plano",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Acessórios para Airsoft"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Marca: Plano", "Capacidade: uma arma curta", "Revestimento de espuma de alta densidade em formato 'caixa de ovo'", "Possui fechaduras seguras e orifício para cadeado"],
+    "valorVista" : "<b>R$ 44,96 à vista*</b>",
+    "valorTotal" : ["De R$ 89,00", "<br>por: R$ 64,31", "<br> <b>R$ 57,88 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_218/caixa-case-para-arma-curta-gun-guard-1423-00-plano-936x770.jpg"]
+  }

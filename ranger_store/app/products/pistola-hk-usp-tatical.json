@@ -1,0 +1,15 @@
+{
+    "id" : "pistola-hk-usp-tatical",
+    "produtoTitulo": "Pistola de Airsoft Eletrica HK USP TACTICAL - Calibre 6,0 mm - Semi Metal - Umarex",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Airsoft",
+    "caracteristica" : ["Pistolas airsoft"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Calibre: 6,0 mm", "Velocidade: 210 fps (a velocidade máxima pode variar de acordo com a munição utilizada", "Funcionamento: Elétrico", "Mira: Fixa", "Material: Caixa e engrenagens de metal e acabamento em plástico muito resistente.", "Peso: 700 g", "Acompanha bateria, carregador e magazine metálico (capac. 30 tiros)."],
+    "valorVista" : "<b>R$ 661,57 à vista*</b>",
+    "valorTotal" : ["De R$ 899,00", "<br>por: R$ 735,08", "<br> <b>R$ 661,57 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_599/1-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_914/pistola-de-airsoft-beretta-px4-storm-calibre-6-0-mm-abs-936x770.jpg"
+                ]
+  }

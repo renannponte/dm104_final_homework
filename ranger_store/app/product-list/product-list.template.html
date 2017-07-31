@@ -1,0 +1,35 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      <p>
+        Procura: <input ng-model="$ctrl.query" />
+      </p>
+
+      <p>
+        Ordenar por:
+        <select ng-model="$ctrl.orderProp">
+          <option value="produtoTitulo">Nome</option>
+          <option value="nivelDestaque">Destaque</option>
+        </select>
+      </p>
+      <button type="button" class="btn btn-primary btn-lg" onclick="location.href='#!/productCart'">Meu Pedido</button>
+
+    </div>
+    <div class="col-md-10">
+
+    <ul class="products">
+      <li ng-repeat="product in $ctrl.products | filter:$ctrl.query | orderBy:$ctrl.orderProp" class="thumbnail">
+
+        <a href="#!/products/{{product.id}}" class="thumb">
+            <img ng-src="{{product.imagens[0]}}" alt="{{product.produtoTitulo}}"/>
+          </a>
+          <a href="#!/products/{{product.id}}">{{product.produtoTitulo}}</a>
+        <p>{{product.categoria}}</p>
+      </li>
+    </ul>
+
+    </div>
+  </div>
+</div>

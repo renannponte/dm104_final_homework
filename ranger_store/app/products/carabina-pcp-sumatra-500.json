@@ -1,0 +1,16 @@
+{
+    "id" : "carabina-pcp-sumatra-500",
+    "produtoTitulo": "Carabina PCP Sumatra 500 + Case + Bomba pneumática",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina PCP cal 5.5"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Este rifle pneumático pré-carregado (PCP) possui 2 câmaras embutidas (500 cc total) que suportam uma pressão de 200 BAR. Pode ser carregado a partir de um tanque de mergulho tipo Scuba, compressor de ar ou bomba manual. Este rifle é alimentado através de um clipe rotatório de 6 tiros. O rifle já vem com 2 clipes que são facilmente cambiáveis. O ajuste de potência possui vários estágios o que faz da Sumatra 500 um dos rifles mais versáteis do mercado. O cilindro de ar de 500 cc proporciona tiros poderosos com a vantagem de não ter que recarregar com muita frequência.", "Velocidade: 335 MPS / 1100 FPS", "Magazine: 2 clipes plásticos rotatórios de 6 tiros cada", "Comprimento total: 109 cm / 43''", "Capacidade: 6 tiros", "Peso: 3,6 Kg", "Rifle pneumático pré-carregado (pcp), volume de ar do cilindro: 500 CC, pressão máxima: 200 BAR / 3000 PSI, manômetro integrado."],
+    "valorVista" : "<b>R$ 8.318,32 à vista*</b>",
+    "valorTotal" : ["De R$ 9.859,70", "<br>por: R$ 9.311,90", "<br> <b>R$ 8.318,32 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_342/BASE--936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_342/IMG_6037-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_342/caixa-case-para-armas-longas-gun-guard-10-10489-plano-936x770-936x770.jpg"
+                ]
+  }

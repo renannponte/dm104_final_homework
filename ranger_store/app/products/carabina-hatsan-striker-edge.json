@@ -1,0 +1,16 @@
+{
+    "id" : "carabina-hatsan-striker-edge",
+    "produtoTitulo": "Carabina de Pressão Hatsan Striker Edge Cal 5.5 + Luneta 4x32 + Chumbinhos + Capa",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina cal 5.5"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Arma de ação por mola", "Gatilho metálico ajustável", "Coronha ambidestra estilo tática (design tático) com abertura para encaixe do polegar", "Soleira de borracha", "Trilho (11mm) e trava para luneta", "Comprimento: 1100 mm", "Peso: 3 kg", "Velocidade: 245 m/s - a velocidade máxima pode variar de acordo com o chumbinho.", "A Carabina de Pressão Striker Edge da Hatsan é uma excelente carabina para atividades de impacto, tiro ao alvo ou lazer, por possuir ótima potência e precisão. Neste kit acompanha Luneta 4x32, Chumbinhos e Capa."],
+    "valorVista" : "<b>R$ 1.213,57 à vista*</b>",
+    "valorTotal" : ["De R$ 1.467,60", "<br>por: R$ 1.348,41", "<br> <b>R$ 1.213,57 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1078/0173-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1078/striker-936x770-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1078/luneta-4x32-rifle-scope-2-936x770.jpg"
+                ]
+  }

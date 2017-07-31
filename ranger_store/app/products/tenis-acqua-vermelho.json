@@ -1,0 +1,17 @@
+{
+    "id" : "tenis-acqua-vermelho",
+    "produtoTitulo": "Tenis Acqua Vermelho - Snake",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : [" Calçados especiais - aquáticos"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Solado Aldeia Cabedal em Neoprene Cadarços com sistema de travamento e ajuste Proteção de borracha na biqueira para melhor proteção."],
+    "valorVista" : "<b>R$ 150,58 à vista*</b>",
+    "valorTotal" : ["De R$ 209,90", "<br>por: R$ 167,31", "<br> <b>R$ 150,58 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5433-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5428-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5427-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2224/IMG_5429-936x770.JPG"
+                ]
+  }

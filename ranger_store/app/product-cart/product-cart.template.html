@@ -1,0 +1,28 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      <h2><span class="label label-default">Meu Pedido</span></h2>
+    
+      <button type="button" class="btn btn-primary btn-lg">Checkout</button> 
+      <p><p><p> 
+      <button type="button" class="btn btn-primary btn-lg" onclick="location.href='#!/products'">Voltar</button>
+      
+    </div>
+    <div class="col-md-10">
+
+    <ul class="products">
+      <li ng-repeat="product in $ctrl.products | filter:$ctrl.query " class="thumbnail">
+
+        <a href="#!/products/{{product.id}}" class="thumb">
+            <img ng-src="{{product.imagens[0]}}" alt="{{product.produtoTitulo}}"/>
+          </a>
+          <a href="#!/products/{{product.id}}">{{product.produtoTitulo}}</a>
+        <p>{{product.categoria}}</p>
+      </li>
+    </ul>
+
+    </div>
+  </div>
+</div>

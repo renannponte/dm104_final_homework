@@ -1,0 +1,15 @@
+{
+    "id" : "kit-economico-flecha-buffalo",
+    "produtoTitulo": "kit economico c/ 3und Flechas de Alumínio 30'' Buffalo River",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["acessórios"],
+    "nivelDestaque" : 1,
+    "produtoDescricao" : ["Material: Alumínio", "Tamanho: 30'' - 76,2 cm", "Conteúdo: Embalagem com 3 unidades", "Possui ponta rosqueável"],
+    "valorVista" : "<b>R$ 46,84 à vista*</b>",
+    "valorTotal" : ["De R$ 74,90", "<br>por: R$ 55,11", "<br> <b>R$ 46,84 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_629/flecha-de-aluminio-3-unidades-buffalo-river-01-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_629/flecha-de-aluminio-3-unidades-buffalo-river-02-936x770.jpg"
+                ]
+  }

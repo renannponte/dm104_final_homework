@@ -1,0 +1,15 @@
+{
+    "id" : "pistola-beeman-2006-45mm",
+    "produtoTitulo": "Pistola de Pressão Beeman 2006 P-17 Cal 4,5mm + Red Dot Rossi - Beeman",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pistola de Pressão",
+    "caracteristica" : ["Pistola de Pressão cal 4.5"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["A pistola de pressão 2006 calibre 4,5 P-17 da Beeman impressiona desde o primeiro momento pela semelhança com uma pistola de fogo. Além disso, possui excelente custo-benefício, empunhadura muito confortável, peso balanceado, é silenciosa e precisa.", "Comprimento: 230 mm", "Peso: 780 g", "Velocidade: 125 m/s (velocidade maxima pode variar de acordo com a munição utilizada)"],
+    "valorVista" : "<b>R$ 547,11 à vista*</b>",
+    "valorTotal" : ["De R$ 859,90", "<br>por: R$ 607,90", "<br> <b>R$ 547,11 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2514/02-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2514/IMG_6704-936x770.JPG"
+                ]
+  }

@@ -1,0 +1,13 @@
+{
+    "id" : "maleta-pesca-dupla",
+    "produtoTitulo": "Maleta / Caixa para Pesca Dupla Face 7320 - Flambeau",
+    "produtoTituloSecundario" : ["* Imagens meramente ilustrativas. Confirme as especificações técnicas abaixo.", "<br>Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["caixa"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Altura: 24 cm", "Comprimento: 34 cm", "Largura: 12 cm", "Material: Termoplastico injetado e tampas de acrílico"],
+    "valorVista" : "<b>R$ 145,26 à vista*</b>",
+    "valorTotal" : ["De R$ 189,90", "<br>por: R$ 161,40", "<br> <b>R$ 145,26 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4542/Maleta-para-Pesca-Dupla-Face-Flambeau-7320-2-936x770.jpg" ]
+  }

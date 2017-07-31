@@ -1,0 +1,16 @@
+{
+    "id" : "canivete-selva-nautika",
+    "produtoTitulo": "Canivete Selva - Nautika",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["Canivete"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Possui 3 lâminas sendo 2 lâminas tipo turca ( uma com dobrador de arame e outra com cortador invertido) e 1 lâmina com serra tipo dente de tubarão", "Possui trava de segurança individual para cada lâmina.", "Inclui estojo de transporte com passador de cinto.", "Material: Lâmina de aço inox e cabo de plástico ABS texturizado e anti-deslizante com padrão camuflado floresta.", "Medidas (aprox.): Fechado 11 cm, Lâmina 7 cm."],
+    "valorVista" : "<b>R$ 63,16 à vista*</b>",
+    "valorTotal" : ["De R$ 79,90", "<br>por: R$ 74,31", "<br> <b>R$ 63,16 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_251/canivete-selva-nautika--936x770.jpg",
+                 "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_251/foto-01-936x770.jpg", 
+                 "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_251/foto-02-936x770.jpg"
+                ]
+  }

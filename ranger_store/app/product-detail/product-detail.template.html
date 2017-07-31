@@ -1,0 +1,49 @@
+
+<div id="product-header">
+  <dl>  
+    <button type="button" class="btn btn-primary btn-lg" onclick="location.href='#!/productCart/'">Meu Pedido</button>
+</dl>
+
+<div class="product-images">
+  
+</div>
+
+<div id="left-col">
+    <div id="active-image">
+      <img ng-src="{{img}}" class="product" 
+           ng-class="{selected: img === $ctrl.mainImageUrl}"
+           ng-repeat="img in $ctrl.product.imagens" />
+    </div>
+    <div id="image-row">
+      <ul class="product-thumbs">
+        <li ng-repeat="img in $ctrl.product.imagens">
+          <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+        </li>
+      </ul>
+    </div>            
+</div>
+<div id="center-col">
+    <div id="product-title">
+      <h1>{{$ctrl.product.produtoTitulo}}</h1>
+      <p>{{$ctrl.product.produtoTituloSecundario}}</p>
+    </div>
+    <div id="product-description">
+      <dl>
+        <dd ng-repeat="produtoDescricao in $ctrl.product.produtoDescricao">{{produtoDescricao}}</dd>
+      </dl>
+    </div>
+</div>        
+  <div class="row">
+    <div id="right-col" class="col-md-10">
+      <dl>
+        <dt>{{$ctrl.product.valorVista}}</dt>
+        <dd ng-repeat="valorTotal in $ctrl.product.valorTotal">{{valorTotal}}</dd>
+        <dd ng-repeat="vendaDescricao in $ctrl.product.vendaDescricao">{{vendaDescricao}}</dd>
+      </dl>
+    </div>
+    <div id="left-col" class="col-md-2">
+      <dl>  
+        <button type="button" class="btn btn-primary btn-lg">Adicionar</button>
+      </dl>
+    </div>
+</div>

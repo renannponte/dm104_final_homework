@@ -1,0 +1,15 @@
+{
+    "id" : "carabina-dione-45mm",
+    "produtoTitulo": "Carabina de Pressão Dione Tradicional - Calibre 4,5 mm + Capa 45''",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina cal 4.5"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Arma de ação por mola.", "Sistema antidisparo com cano aberto.", "Coronha de madeira de lei com acabamento natural.", "Calibre: 4,5 mm", "Comprimento: 1135 mm", "Peso: 2,7 Kg", "Velocidade: 186 m/s (a velocidade máxima pode variar conforme o chumbinho utilizado)." ],
+    "valorVista" : "<b>R$ 512,91 à vista*</b>",
+    "valorTotal" : ["De R$ 669,90", "<br>por: R$ 569,90", "<br> <b>R$ 512,91 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_270/1-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_8035/01-936x770.jpg"
+                ]
+  }

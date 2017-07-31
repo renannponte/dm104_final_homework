@@ -1,0 +1,17 @@
+{
+    "id" : "barraca-nautika-indy",
+    "produtoTitulo": "Barraca Nautika Indy 4/5 Pessoas",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Barraca"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Capacidade: 4 a 5 Pessoas", "Material Interior: Poliéster 1 90T respirável e tela mosquiteiro.", "Material Piso: Polietileno de alta densidade e anti-fungo", "Material Sobreteto: Poliéster 1 90T laminado com poliuretano e 2500mm de coluna d'água, parcialmente aluminizado, costura selada termo-soldada e proteção UV", "Peso: 5,6 Kg"],
+    "valorVista" : "<b>R$ 516,72 à vista*</b>",
+    "valorTotal" : ["De R$ 739,90", "<br>por: R$ 607,90", "<br> <b>R$ 516,72 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4516/2-(2)-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4516/2-(3)-936x770.jpg", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_4516/2-(7)-936x770.jpg"
+                ]
+    
+  }

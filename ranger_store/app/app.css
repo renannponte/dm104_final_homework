@@ -1,0 +1,162 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  padding: 20px;
+}
+
+h1 {
+  border-bottom: 1px solid gray;
+  margin-top: 0;
+}
+
+/* View: product list */
+.products {
+  list-style: none;
+}
+
+.products li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+.thumb {
+  float: left;
+  height: 100px;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  width: 100px;
+}
+
+/* View: product detail */
+.product {
+  background-color: white;
+  display: none;
+  float: left;
+  height: 400px;
+  margin-bottom: 2em;
+  margin-right: 3em;
+  padding: 2em;
+  width: 400px;
+}
+
+.product:first-child {
+  display: block;
+}
+
+.product-images {
+  background-color: white;
+  float: left;
+  height: 450px;
+  overflow: hidden;
+  position: relative;
+  width: 450px;
+}
+
+.product-thumbs {
+  list-style: none;
+  margin: 0;
+}
+
+.product-thumbs img {
+  height: 100px;
+  padding: 1em;
+  width: 100px;
+}
+
+.product-thumbs li {
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+  display: inline-block;
+  margin: 1em;
+}
+
+div {
+    display: block;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+    
+    /* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+    
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+    min-height:200px;
+}
+
+.active-image {
+    height: 280px;
+    width: 200px;
+}
+
+.image-row {
+    height: 65px;
+    width: 200px;
+    display: table;
+    border-spacing: 10px;
+    table-layout: fixed;
+}
+
+.image-col {
+    width: 50px;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: table-cell;
+}
+
+/* Box Message */
+.item {
+    border: 1px solid #000;
+    font-size: 1.1em;
+    width: 450px;
+    height: 75px;
+    margin: 10px;
+    padding-left: 75px;
+    line-height: 75px;
+    background: no-repeat 20px center;
+    box-shadow: 1px 1px 5px #eee;
+}
+
+#left-col {
+    float: left;
+    margin: 0 0 22px 20px;
+    width: 200px;
+}
+
+#right-col {
+    float: right;
+    margin: 0 0 22px 20px;
+    width: 270px;
+}
+
+#center-col {
+    margin-right: 320px;
+    margin-left: 310px;
+}
+
+ @media (max-width: 600px) {
+    .carousel-caption {
+        display: none; 
+    }
+} 
+
+
+

@@ -1,0 +1,13 @@
+{
+    "id" : "chumbinho-pro-magnum-5mm",
+    "produtoTitulo": "Chumbinho Pro-Magnum - Calibre 5,5 mm - 250 unidades - Gamo",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Chumbinho 5.5"],
+    "nivelDestaque" : 2,
+    "produtoDescricao" : ["Peso: 1 g", "Calibre: 5,5 mm", "Conteúdo: Embalagem com 250 unidades."],
+    "valorVista" : "<b>R$ 35,52 à vista*</b>",
+    "valorTotal" : ["De R$ 47,90", "<br>por: R$ 39,47", "<br> <b>R$ 35,52 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : ["http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_418/chumbinho-pro-magnum-calibre-5-5-mm-250-unidades-01-936x770.jpg"]
+  }

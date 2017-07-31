@@ -1,0 +1,15 @@
+{
+    "id" : "colete-salva-vidas-neoprene",
+    "produtoTitulo": "Colete Salva Vidas Neoprene New Protech Homologado M Vermelho - Prolife",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Pesca & Náutica",
+    "caracteristica" : ["Colete Salva Vida"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Visando garantir a segurança, tranquilidade e qualidade informamos que nosso colete é homologado pela Marinha do Brasil, podendo ser utilizado por nossos consumidores sem a preocupação de autuação em caso de alguma fiscalização.", "M (De 35kg a 55kg)"],
+    "valorVista" : "<b>R$ 284,50 à vista*</b>",
+    "valorTotal" : ["De R$ 379,90", "<br>por: R$ 334,71", "<br> <b>R$ 284,50 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_3948/V2frenteVermelho_large-936x770.png",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_3948/V2CostasVermelho_large-936x770.png"
+                ]
+  }

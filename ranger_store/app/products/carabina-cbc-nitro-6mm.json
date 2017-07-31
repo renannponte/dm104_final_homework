@@ -1,0 +1,15 @@
+{
+    "id" : "carabina-cbc-nitro-6mm",
+    "produtoTitulo": "Carabina de Pressão CBC Nitro Six 6.0mm Oxidada + Kit Limpeza + Chumbinho",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Carabina de Pressão",
+    "caracteristica" : ["Carabina cal 6.0"],
+    "nivelDestaque" : 4,
+    "produtoDescricao" : ["Há mais de oito décadas desenvolvendo produtos destinados à segurança, ao esporte e ao lazer, a marca CBC oferece uma ampla e variada série de carabinas de pressão de alta tecnologia, performance e confiabilidade. São diversas opções que revelam robustez, tradição, modernidade e muita segurança, já que todas as carabinas da CBC possuem sistema de segurança.", "Mola 'Gás Ram' - pistão nitrogênio (Nitro)", "Velocidade: 260 m/s", "Força para engatilhar: 27 Kg", "Distância máxima do tiro: 440 metros (valor teórico considerando o cano inclinado em 30°)", "Comprimento total: 47 polegadas (120 cm)", "Peso: 3,8 Kg"],
+    "valorVista" : "<b>R$ 2.077,56 à vista*</b>",
+    "valorTotal" : ["De R$ 2.482,50", "<br>por: R$ 2.308,40", "<br> <b>R$ 2.077,56 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_352/carabina-de-pressao-cbc-nitro-six-6-0mm-oxidada-kit-limpeza-chumbinho-936x770-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_352/combo-carabina-de-pressao-cbc-nitro-six-936x770.jpg"
+                ]
+  }

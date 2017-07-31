@@ -1,0 +1,16 @@
+{
+    "id" : "arco-nkt",
+    "produtoTitulo": "Arco Recurvo Xavante - NKT",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["arco", "curvo"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Material: Corda multifilamento de poliamida, empunhadura de aluminio, arco de fibra de vidro", "Medidas (cm): 144", "Peso (g): 17", "Tipo: Arco Balanceado 48 libras", "O Arco Xavante, da NTK, é um conjunto de arco e flecha, arco balanceado de 48 libras, acompanha 3 flechas, mira e alvo. Para preservar e prolongar a utilização das flechas deste material é recomendado utilizar como Alvo materiais com baixo grau de dureza, como madeiras sem fórmicas, madeiras revestidas com camurça, Sisal ou outras fibras de plantas utilizadas em confecções de alvos de uso amador e profissional que são os materiais recomendados para utilização desta pratica esportiva."],
+    "valorVista" : "<b>R$ 555,66 à vista*</b>",
+    "valorTotal" : ["De R$ 699,90", "<br>por: R$ 617,40", "<br> <b>R$ 555,66 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1881/arco-recurvo-ntk-mod-xavante-48lbs-flecha-936x770.jpg",
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1881/arco-xavante2-936x770.jpg", "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1881/arco-xavante4-936x770.jpg"
+                ]
+    
+  }

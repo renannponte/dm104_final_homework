@@ -1,0 +1,17 @@
+{
+    "id" : "bota-finisterre-nanox-dry-desert",
+    "produtoTitulo": "Bota Finisterre Nanox Dry Desert - Vento",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Especificações Técnicas:"],
+    "categoria" : "Camping e Lazer",
+    "caracteristica" : ["Vestuário"],
+    "nivelDestaque" : 3,
+    "produtoDescricao" : ["Leve e resistente, sua tecnologia permite que caminhadas de longa duração não machuquem os pés com o tempo, pois tem como seu principal atributo o conforto. O design também faz dela uma bota extremamente versátil, que permite ser utilizada no dia-a-dia, unindo casualidade, conforto e resistência."],
+    "valorVista" : "<b>R$ 404,92 à vista*</b>",
+    "valorTotal" : ["De R$ 549,90", "<br>por: R$ 449,91", "<br> <b>R$ 404,92 à vista*</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1199-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1201-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1202-936x770.JPG", 
+                  "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_2243/IMG_1203-936x770.JPG"
+                ]
+  }

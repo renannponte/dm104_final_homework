@@ -1,0 +1,14 @@
+{
+    "id" : "besta-md-jaguar",
+    "produtoTitulo": "Besta/Balestra MD Jaguar Camuflada 150/175 Lbs + Red Dot + Acessoreios",
+    "produtoTituloSecundario" : ["Detalhes do Produto", "<br> Principais Características"],
+    "categoria" : "Arquearia",
+    "caracteristica" : ["balestra", "recurvo"],
+    "nivelDestaque" : 5,
+    "produtoDescricao" : ["Mira ajustável", "Mecanismo de auto segurança.", "Footclaw para os pés, facilitando sua armação.", "Arco todo feito em metal.", "Coronha Personalizada, camuflada"],
+    "valorVista" : "<b>*Produto fora de estoque</b>",
+    "valorTotal" : ["<b>*Produto fora de estoque</b>"],
+    "vendaDescricao" : ["* 10.00% de desconto no boleto, depósito ou transferência bancária.."],
+    "imagens" : [ "http://www.mundodacarabina.com.br/gerenciador/midia/imagens/produtos/arquivos_1037/0-936x770.jpg"
+                ]
+  }
